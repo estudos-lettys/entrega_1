@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;1,600&family=Caveat:wght@700&family=Comme:wght@300&family=Dancing+Script:wght@500&family=Josefin+Sans:wght@500&family=Lato&family=Poppins:wght@200;300;400;500;600&family=Ysabeau:wght@1;500&display=swap');
+
+body {
+    background-color: #f3fdf7;
+    margin-bottom: 50px;
+
+}
+
+.nav-span {
+    background-color: rgb(189, 167, 209);
+    color: black;
+    padding: 10px 78.5px 10px 78.5px;
+    border-radius: 3px;
+    -webkit-box-shadow: 5px 11px 8px -4px rgba(248, 240, 252, 1);
+    -moz-box-shadow: 5px 11px 8px -4px rgba(248, 240, 252, 1);
+    box-shadow: 5px 11px 8px -4px rgba(248, 240, 252, 1);
+    font-family: 'Dancing Script', cursive;
+}
+
+.nav-span:nth-child(even) {
+    background-color: #ebfbee;
+}
+
+.nav-span:hover {
+    background-color: #f8f0fc;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    color: #834d9e;
+    font-size: 60px;
+}
+
+img {
+    width: 500px;
+    margin-left: 430px;
+}
+
+.link_texto {
+
+    color: #c6afd1;
+    font-family: 'Dancing Script', cursive;
+}
+
+.central {
+    margin-left: 430px;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h2 {
+    color: #22775e;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3 {
+    color: #7e34a3;
+    font-size: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
+textarea{
+    background-color: #c6afd1;
+    color: white;
+    border: transparent;
+}
+textarea:focus{
+    border: solid #7e34a3;
+}
+.fonte{
+    font-size: 10px;
+    font-family: 'Roboto Mono', monospace;
+}
